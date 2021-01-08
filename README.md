@@ -1,7 +1,7 @@
 #### FFR_mgimond-tukeydar
 function used in mgimond's Exploratory Data Analysis
 Credit: mgimond  
-https://ckingdon.github.io/FFR_mgimond-tukeydar/index.html
+https://ckingdon.github.io/FFR_mgimond-tukeyedar/
 #
 FFR: Forked For Reference  
 This is one of several repos I've found while searching across the web for help with various technical hurdles. Sometimes I come across a repo that's so good that I'm going to preserve it in my own account for future reference (FFR, forked for reference, filed for reference, for future reference)
@@ -9,7 +9,10 @@ This is one of several repos I've found while searching across the web for help 
 How I found it: I came across this repo while searching for information on spatial autocorrelation, then found other great repos by mgimond.  
 Why: Just like the "Spatial" repo, this is a fantastic teaching/learning resource.
 #  
-
+https://pkgdown.r-lib.org/
+>
+If you are using GitHub, the easiest way to make this your package website is to check into git, then go to settings for your repo and make sure that the GitHub pages source is set to “master branch /docs folder”. Be sure to update the URL on your github repository homepage so others can easily navigate to your new site.
+#  
 
 tukeyedar
 =========
