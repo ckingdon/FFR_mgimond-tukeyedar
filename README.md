@@ -10,8 +10,8 @@ How I found it: I came across this repo while searching for information on spati
 Why: Just like the "Spatial" repo, this is a fantastic teaching/learning resource.
 #  
 https://pkgdown.r-lib.org/
->
-If you are using GitHub, the easiest way to make this your package website is to check into git, then go to settings for your repo and make sure that the GitHub pages source is set to “master branch /docs folder”. Be sure to update the URL on your github repository homepage so others can easily navigate to your new site.
+I did this to get the page live ...
+>If you are using GitHub, the easiest way to make this your package website is to check into git, then go to settings for your repo and make sure that the GitHub pages source is set to “master branch /docs folder”. Be sure to update the URL on your github repository homepage so others can easily navigate to your new site.
 #  
 
 tukeyedar
